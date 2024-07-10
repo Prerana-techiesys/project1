@@ -20,6 +20,10 @@
              font-size: 23px;
             }
                     /* part 2*/
+
+                    .icons{
+                      display: none;
+                    }
         
             .head{
                 min-height: 100vh;
